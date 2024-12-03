@@ -1,4 +1,6 @@
 //10) Write a function to convert a string to lowercase. The function should take a single argument, which is the string to convert.
+// The answer is below:
+
 
 function toLowerCase(str) {
     return str.toLowerCase();
